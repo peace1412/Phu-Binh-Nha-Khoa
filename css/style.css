@@ -40,3 +40,6 @@ footer .navbar-nav .nav-item .nav-link:hover{color: #FFC113;}
 
 .form-control { 
 	padding: 8px;margin-bottom: 10px}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;}
